@@ -45,10 +45,10 @@ table {
 body {
 	line-height: 1.4;
 	font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
-	color: #444;
+	color: #000;
 	background: url("http://static.tumblr.com/q6h090f/ePGm855lm/wood.jpg") repeat;
 }
-a {color: #a3311a;}
+a {color: #000;}
 h1 {
 	margin-bottom: 16px; 
 	font-size: 26px; 
@@ -78,7 +78,7 @@ h5 {
 	margin-bottom: 18px; 
 	font-size: 12px; 
 	line-height: 18px; 
-	color: #423d32;
+	color: #000;
 }
 h6 {
 	font-size: 12px;
@@ -147,7 +147,7 @@ blockquote img {
 .pages li a {
 	text-decoration: none;
 	font-weight: bold;
-	color: #444;
+	color: #000;
 }
 .portrait {
 	position: absolute;
@@ -190,7 +190,7 @@ blockquote img {
 	font-size: 12px; 
 }
 #tweets a {
-	color: #444;
+	color: #000;
 	text-decoration: none;
 }
 #twitter h2 {
@@ -301,14 +301,14 @@ a.highres {
 	border-left: none; 
 	font-size: 18px;
 	font-family: Georgia;
-	color: #3d3d3d;
+	color: #000;
 }
 .quote .source {
 	margin-top: 9px;
 	font-size: 14px;
 	font-family: Georgia;
 	font-style: italic;
-	color: #878787;
+	color: #000;
 }
 
 /* Link posts */
@@ -361,7 +361,7 @@ a.highres {
 	list-style: none;
 	font-family: "Courier";
 	font-size: 14px;
-	color: #3d3d3d;
+	color: #000;
 }
 .chat ul li {
 	margin-left: 0; 
